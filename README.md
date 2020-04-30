@@ -19,14 +19,13 @@ Programs needed to run the app:
 3. Any text editor.
 
 # How to run the app?
-1. Download the Database.
-2. Run XAMPP to use your localhost.
-3. Import database to PHPMyAdmin.
-4. Download PHP fils and save it in htdocs file in the XAMPP directory on your computer.
-5. Setup your localhost username and password in the connect.php file.
-6. Download the Android project.
-7. Open Android Studio and import the project to it.
-8. Open strings.xml file and add your local IP address for the device that you will run the app on it.
-9. Run the app on your emulator or device.
+Download plastic saver project.rar file and extract it on your device then follow the next steps.
+1. Run XAMPP to use your localhost.
+2. Import database to PHPMyAdmin.
+3. Open PHP fils and save it in htdocs file in the XAMPP directory on your computer.
+4. Setup your localhost username and password in the connect.php file.
+5. Open Android Studio and import the project to it.
+6. Open strings.xml file and add your local IP address for the device that you will run the app on it.
+7. Run the app on your emulator or device.
 
 Note: if you face any problem you can click on the skip button in the login screen to move to the main screen directly. 
